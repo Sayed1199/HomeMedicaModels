@@ -1,6 +1,6 @@
 # HomeMedicaModels
 
-A set of ML Models to predict a set of diseases.
+A set of ML Models to predict a set of diseases such as Diabetes, Breast Cancer, Liver Disease, Heart Disease, Kidney Disease, Malaria, Pneumonia, Covid19.
 
 --- To Use the Pneumonia And Malaria Models u gotta download the datasets first
 as for the pneumonia -> download the dataset https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
